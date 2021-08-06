@@ -62,5 +62,5 @@ async def on_guild_join(guild):
     channel = bot.get_channel(839919450186711121)
     await channel.send(welc)
 
-bot.run('ODQyODMwMzg3NzI5Mzk5ODI4.YJ7A9w.re_vTrc32Krx5TaUROxA37CF-H0')
+bot.run('Your Token Here')
 bot.get_channel
